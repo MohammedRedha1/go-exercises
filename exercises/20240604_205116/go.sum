@@ -1,0 +1,4 @@
+github.com/julien040/go-ternary v0.0.0-20230119180150-f0435f66948e h1:q8lhYSYDzN8slDRCVRt2TD2ShyjNcuQU+I9LZNPv4TM=
+github.com/julien040/go-ternary v0.0.0-20230119180150-f0435f66948e/go.mod h1:XXIcjDHL7vyuHA7V0UwaTKMscsqKzFkE9FTGbBeqJHM=
+golang.org/x/text v0.15.0 h1:h1V/4gjBv8v9cjcR6+AR5+/cIYK5N/WAgiv4xlsEtAk=
+golang.org/x/text v0.15.0/go.mod h1:18ZOQIKpY8NJVqYksKHtTdi31H5itFRjB5/qKTNYzSU=
